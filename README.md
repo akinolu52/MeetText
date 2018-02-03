@@ -5,7 +5,7 @@
 [check the app](http://apex.foorlopunilag.com/)
 
 ##Stack
--Laravel
--Meetups Api
--Africatalking Api
--Google Calendar
+-Laravel <br>
+-Meetups Api <br>
+-Africatalking Api <br>
+-Google Calendar <br>
